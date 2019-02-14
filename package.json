@@ -1,0 +1,23 @@
+{
+  "name": "kac-comp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha ./src/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralekna/kac-comp.git"
+  },
+  "author": "Rytis Alekna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralekna/kac-comp/issues"
+  },
+  "homepage": "https://github.com/ralekna/kac-comp#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
